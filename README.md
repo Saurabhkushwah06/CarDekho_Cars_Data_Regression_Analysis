@@ -1,7 +1,5 @@
 # CarDekho EDA & Regression Analysis
 
-![CarDekho Logo](cardekho_logo.png)
-
 Welcome to the **CarDekho EDA & Regression Analysis** repository! In this project, we dive into the CarDekho Cars dataset using Exploratory Data Analysis (EDA) techniques and build regression models to predict car prices.
 
 ## About the Dataset
